@@ -1,0 +1,31 @@
+* {box-sizing: border-box;}
+.dbl-border {
+  position: relative;
+  display: table;
+  margin: 50px auto;
+}
+.dbl-border img {display: block;}
+.dbl-border:before, 
+.dbl-border:after {
+  content: "";
+  position: absolute;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  border: 5px solid #CC0028;
+}
+.dbl-border:before {
+  top: -15px;
+  left: -15px;
+}
+.dbl-border:after {
+  right: -15px;
+  bottom: -15px;
+}
+.image-wrapper {
+  position: relative;
+  z-index: 2;
+  padding: 5px;
+  background: white;
+  box-shadow: 1px 1px 20px 0 rgba(0, 0, 0, 0.1);
+}

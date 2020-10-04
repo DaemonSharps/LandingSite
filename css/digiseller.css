@@ -1,0 +1,63 @@
+.digiseller-wrapper-product .digiseller-description-buyButton a {
+
+            color: #fff!important;
+    background-color: #CC0028!important;
+    border: 4px solid #CC0028!important;
+    border-radius: 10px!important;
+}
+.digiseller-wrapper-product .digiseller-description-buyButton a:hover {
+    background:#fff!important ;
+    color:#CC0028!important ;
+}
+.digiseller-large .digiseller-large-3 {
+    border-radius: 15px;
+}
+.digiseller-medium .digiseller-medium-4 {
+   border-radius: 15px;
+}
+ div.digiseller-small-6 {
+    width: 100%;
+    padding: 0 8px;
+    border-radius: 15px;
+}
+.digiseller-description-category a {
+    text-align: center!important;
+    color: #D85F75!important;
+    font-size: 30px!important;
+    padding: 10px!important;
+    font-weight: 500!important;
+    font-size: 25px!important;
+    padding: 4px!important;
+}
+.digiseller-body header {
+
+    background-color: #EBB7B6!important;
+    border: 5px solid #0000004f!important;
+display: none!important;
+}
+.digiseller-body{
+	    border-radius: 15px;
+	    background-color: #efe8d1!important;
+}
+.digiseller-row{
+	border-radius: 0!important;
+}
+.digiseller-cta-button-v a{
+	 color: #fff!important;
+    background-color: #CC0028!important;
+    border: 4px solid #CC0028!important;
+}
+.digiseller-cta-button-v a:hover{
+	 background:#fff!important ;
+    color:#CC0028!important ;
+}
+span.digiseller-body ul.digiseller-breadcrumbs>div>li a {
+    color:#D85F75!important;
+}
+.digiseller-breadcrumbs>div>li:first-child:before {
+    background: url(https://www.body-in-12-days.xyz/img/home_icon.png) no-repeat center center!important;
+}
+.digiseller-body a img {
+    border: none;
+    border-radius: 0;
+}

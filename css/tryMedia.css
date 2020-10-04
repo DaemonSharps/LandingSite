@@ -1,0 +1,250 @@
+
+@media (max-width:1050px )
+{
+.headertext{
+	font-size:80px;
+}
+.arrow-7{
+	padding-top:250px;
+}
+.abouttext{
+	font-size: 25px;
+}
+.price-back{
+	width:27%;
+}
+.price-divider{
+
+	 margin-top:6%; 
+
+}
+.why-textcol{
+	padding-left:11%;
+}
+.why-textcol-1{
+	padding-right:11%;
+}
+.why-textown{
+	font-size:55px;
+}
+.why-textown-1{
+	font-size:55px;
+}
+.why-imgcol{
+	margin-right: 2%;
+}
+.why-imgcol-1{
+	margin-left: 2%;
+}
+.why-textown-2{
+	font-size: 18px;
+}
+}
+@media(max-width:780px)
+{
+.headertext{
+	font-size:65px;
+}
+.headertext-1{
+	font-size:22px;
+}
+.header-coltext{
+	padding-top:140px; 
+}
+.arrow-7{
+	padding-top:145px;
+}
+.arrow-7 span {
+    width: 26px;
+    height: 26px;
+}
+.price-list{
+	font-size:12px;
+	padding-left: 10%;
+}
+.price:before ,.price-1:before ,.price-2:before{
+	font-size: 25px;
+	line-height:40px;
+}
+.pricing-card-title{
+	font-size: 30px;
+}
+.btn-lg{
+	line-height: 0.8;
+	padding: 6px;
+	font-size: 18px;
+}
+.why-img{
+	width: 90%;
+}
+.why-imgcol ,.why-imgcol-1{
+	padding: 10px;
+}
+.why-textown ,.why-textown-1{
+	font-size: 43px;
+}
+}
+@media(max-width: 430px)
+{
+	.header-background{
+	background-image:url(https://www.body-in-12-days.xyz/img/BackG_1_2.jpg);
+	 
+}
+.why-textown, .why-textown-1 {
+    font-size: 40px;
+        text-align: inherit!important;
+}
+.why-textown-2{
+	text-align: inherit!important;
+	padding: 0px 20px 0px 20px;
+}
+.why-textcol{
+	padding-left: 15px;
+}
+.why-textcol-1{
+	padding-right:  15px;
+}
+.why-imgcol-1 {
+    margin-left: 0;
+}
+.nav-toggle{
+display: block;
+}
+#menu {
+max-height: 0px;
+background: rgba(7, 7, 7,0.73);
+float: none;
+position: absolute;
+overflow: hidden;
+top: 70px;
+right: 0;
+left: 0;
+margin: 0;
+padding: 0;
+z-index: 3;
+display:block;
+}
+/* делаем элементы списка блочными, чтобы они располагались друг под другом */
+#menu li {
+display: block;
+text-align: center;
+margin-right: 0;
+border-top: 3px solid #FFFFFF;
+}
+#menu li:last-child  {
+	border-top: 3px solid #FFFFFF;
+border-bottom: 3px solid #FFFFFF;
+}
+
+.headertext {
+    font-size: 55px;
+}
+.why-we{
+font-size: 50px;
+}
+.why-we-1{
+font-size: 18px;
+}
+.price-back {
+    min-width: 280px;
+}
+.price:before, .price-1:before, .price-2:before {
+      font-size: 35px;
+    line-height: 50px;
+}
+.pricing-card-title {
+    font-size: 45px; 
+}
+.price-list {
+    font-size: 20px;
+    padding-left: 10%;
+}
+.btn-lg {
+    line-height: 1.5;
+    padding: 6px;
+    font-size: 20px;
+}
+.why-flex{
+	flex-direction: column-reverse;
+}
+.why-flex-1{
+	flex-direction: column;
+}
+.carusel-back{
+	height: 500px;
+}
+.about-block{
+	display: none;
+}
+.carusel-img-1{
+	    background-image: url(https://www.body-in-12-days.xyz/img/hud1.1.jpg);
+   
+}
+.carusel-img-2{
+	    background-image: url(https://www.body-in-12-days.xyz/img/hud1.1.jpg);
+   
+}
+.carusel-img-3{
+	    background-image: url(https://www.body-in-12-days.xyz/img/hud1.1.jpg);
+   
+}
+.carusel-img-4{
+	    background-image: url(https://www.body-in-12-days.xyz/img/hud1.1.jpg);
+   
+}
+.carusel-img{
+	background-size: contain;
+}
+.d5 .why-textown{
+	font-size: 30px;
+}
+.d5 .why-textown-2{
+	padding: 0;
+	font-size: 15px;
+}
+.dbl-border {
+    margin: 20px auto !important;
+}
+h1.demo{
+	font-size: 25px;
+}
+.footer{
+	display: grid!important;
+}
+}
+@media(max-width: 325px){
+	.headertext {
+    font-size: 45px;
+}
+.nav-toggle{
+	margin-left: 10px;
+}
+.why-we {
+    font-size: 30px;
+}
+.why-we-1 {
+    font-size: 15px;
+
+}
+.price-back {
+    min-width: 230px;
+}
+.pricing-card-title {
+    font-size: 36px;
+}
+.price-list {
+    font-size: 15px;
+}
+.price:before, .price-1:before, .price-2:before {
+    font-size: 28px;
+}
+.why-textown, .why-textown-1 {
+    font-size: 30px;
+}
+.header-coltext {
+    padding-top: 110px;
+}
+.d5 .why-textown{
+	font-size: 20px;
+}
+}

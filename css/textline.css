@@ -1,0 +1,15 @@
+@import 'https://fonts.googleapis.com/css?family=Merriweather';
+body {margin: 0;}
+
+.d5 h2:before {
+  content: "";
+  position: absolute;
+  top: 45px;
+  left: 0;
+  width: 65%;
+  height: 2px;
+  background: #CC0020;
+}
+.d5 p{
+text-align:justify;	
+}
